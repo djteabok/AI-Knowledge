@@ -1,0 +1,11 @@
+# Microsoft Teams Limits
+
+Microsoft Teams is designed for collaboration within organizations. A single team in Microsoft Teams can include a large number of members to facilitate communication and project management. The platform imposes a limit on the number of individuals who can join a team to ensure performance and scalability. As of the latest updates, this limit is set to accommodate up to 10,000 members per team, making it suitable for large enterprises and educational institutions.
+
+Users in Microsoft Teams have the ability to create multiple teams to organize different projects or departments. However, to maintain system efficiency and prevent overuse, there is a restriction on the number of teams an individual user can create. For a standard user, this limit is 250 teams, while global administrators have higher privileges and can create up to the organization-wide maximum of 500,000 teams.
+
+Ownership in Microsoft Teams allows users to manage team settings, members, and content. To ensure effective administration, a team can have multiple owners, but there is a cap on the number of owners per team. This limit is set at 100 owners, balancing the need for collaborative management with the practicality of decision-making within a team.
+
+Channels in Microsoft Teams provide structured spaces for discussions and file sharing within a team. There are two types: standard channels, accessible to all team members, and private channels, restricted to specific users. The platform limits the number of channels per team to 200 standard channels and 30 private channels, allowing for extensive organization while maintaining performance.
+
+Microsoft Teams meetings enable real-time collaboration with audio, video, and screen sharing. The platform supports large meetings, with a maximum of 1,000 participants able to join interactively, including features like chat and reactions. For even larger events, a view-only mode accommodates up to 10,000 attendees, ideal for webinars or company-wide broadcasts.
